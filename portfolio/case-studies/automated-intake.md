@@ -100,7 +100,7 @@ I later built a similar intake form and flow for the receiving Microsoft Sales E
 
 ## Building on the workflow with AI
 
-I also began building and testing an agentic version of the intake experience in Copilot Studio, extending my work with Power Automate.
+I also began building and testing an agentic version of the intake experience in Copilot Studio, extending my work with Power Automate. This version was a conversational intake agent that could gather request details and pass a summary to the flow—a prototype for making submission easier while retaining the structured work-tracking process.
 
 This was the next iteration of the project: exploring how AI could support the intake experience on top of the structured workflow I had already built. The Copilot Studio work was a prototype, separate from the Forms and Power Automate system already in use.
 
@@ -109,7 +109,7 @@ case study](ai-workflow-evaluation.md).
 
 ## Results and continued adoption
 
-The strongest result was that the process continued to be useful after I moved on.
+The strongest result was that the process continued to be useful after I moved on. I packaged the intake automation for team ownership and reuse, including a template other teams could adapt.
 
 The Partner Center implementation remained in use by product managers and vendor writers after the transition to self-service. I later adapted the approach for Power BI and Fabric documentation, and the Microsoft Sales Experience content team used my form as a template for its own process. Other teams like Azure Monitoring adopted the process too.
 
