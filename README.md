@@ -4,8 +4,6 @@ I'm a technical program manager and content developer with a background in busin
 
 I always wanted to work in tech, so I learned my way in.
 
-<iframe src="https://giphy.com/embed/xUA7b17osqXImEFJKM" width="480" height="274" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/foxhomeent-reese-witherspoon-legally-blonde-xUA7b17osqXImEFJKM">via GIPHY</a></p>
-
 > ### So, like, what even do I do?
 >
 > Let me show you: [**My portfolio**](portfolio/about.md)
