@@ -1,35 +1,22 @@
 # About me
 
-Hi! I'm [Julia Cawthra](https://linkedin.com/in/cawthrajulia)—a writer by
-education, an editor by trade, and a perpetual student of the technology
-behind my work. A string of side quests got me here.
+Hi! I'm Julia, and **my nerdism is cross-functional**.
 
-![A cat sitting in a pool of light beside a road, offering a side quest.](case-studies/media/cat-quest.jpeg)
+I can write the docs. I can improve the docs. I can build a new process for maintaining the docs. I can automate and agentify the systems that slowed me down. I have this habit of curious about something at work, learn how to do it. 
 
-I've spent most of my career being hired to do one thing, getting curious
-about something adjacent, and eventually doing both. I taught myself
-InDesign because our newsletters could look better. As a medical editor,
-I joined developer meetings because I kept finding bugs in the websites
-I was proofreading. At Microsoft, I learned Power Automate because our
-documentation intake process was driving me nuts, and Kusto because I
-wanted answers our dashboards couldn't give me.
+I taught myself InDesign because our newsletters could look better. As a medical editor, I joined developer meetings because I kept finding bugs in the websites I was proofreading. At Microsoft, I learned Power Automate because our documentation intake process was driving me nuts, and Kusto because I wanted answers our dashboards couldn't give me. 
 
-I spent five years at Microsoft as a Senior Content Developer, working
-across Partner Center, Commercial Marketplace, Microsoft Sales Experience,
-Power BI, and Fabric. My work grew to include information architecture,
-technical program operations, automation, contributor enablement, and AI
-experimentation. **I still love the writing part.** I'm equally interested
-in what makes it useful, discoverable, accurate, and sustainable.
+I guess you could say my career is where it is because I followed a bunch of side quests.
 
-Before Microsoft, my career meandered through medical editing, scientific
-publishing, technical consulting, and government communications. I have
-an MBA with a Marketing focus and bachelor's degrees in Journalism and
-English from Penn State.
+![A cat sitting beside a road, offering a side quest.](case-studies/media/cat-quest.jpeg)
 
-I'm happiest when there's something complicated to untangle, something
-inefficient to improve, or something new to learn. Preferably all three.
+I'm happiest when there's something complicated to untangle, something inefficient to improve, or something new to learn. Preferably all three.
 
-> [Explore my portfolio →](resume-selected-work.md#selected-work)
+Off-screen, I enjoy life on the coast with my family and dogs, watching football, listening to true crime podcasts, reading dark academia, and skiing with friends.
+
+> [Check out my work →](resume-selected-work.md#selected-work)
+> [View my resume →](resume-selected-work.md)
+> [Don't just take my word for it →](#stakeholder-feedback)
 
 ## Stakeholder feedback
 
