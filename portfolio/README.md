@@ -1,7 +1,5 @@
 # Julia Cawthra, MBA
 
-> *I’m continuing to add case studies, published examples, and lessons from the work. This portfolio will grow as I document more of those projects.*
-
 ## Program & Product Operations | AI Enablement | Customer Experience
 
 I like figuring out how things work, then figuring out how to make them work better.
@@ -32,6 +30,7 @@ Jump to what you're interested in:
 
 [More about me](ABOUT.md)
 
+> *I’m continuing to add case studies, published examples, and lessons from the work. This portfolio will grow as I document more of those projects.*
 
 ## Connect
 
