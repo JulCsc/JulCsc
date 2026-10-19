@@ -70,3 +70,6 @@ The screenshots demonstrate the delivered design changes. They do not establish 
 - Collaborating on information architecture across a large content portfolio.
 
 *Archived capture dates do not represent exact deployment dates. Microsoft maintains the live documentation, which may have changed since my involvement.*
+
+___
+*AI helped draft and refine this page. The experiences and contributions described are my own.*

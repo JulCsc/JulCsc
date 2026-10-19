@@ -60,3 +60,6 @@ These were results for the team's guidance set, which I authored and took throug
 The four articles are linked above.
 
 *Microsoft maintains the live documentation, which may have changed since my involvement.*
+
+___
+*AI helped draft and refine this page. The experiences and contributions described are my own.*

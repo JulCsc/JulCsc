@@ -127,3 +127,6 @@ I helped people complete their immediate changes while building the confidence a
 > — Vibhuti N. · Technical Writer · October 2024
 
 *Microsoft maintains the live documentation, which may have changed since my involvement.*
+
+___
+*AI helped draft and refine this page. The experiences and contributions described are my own.*

@@ -166,3 +166,5 @@ What started as a way to eliminate repetitive work became a shared process for c
 > “Julia is really structured and prioritizes the intake structure through SPS Docs and pulls me into ADO/GitHub as needed so we can collaborate and iterate quickly. She is quick to provide ETAs and staging links and ask questions as needed to ship quick.”
 >
 > — Ananya J. · April 2025
+___
+*AI helped draft and refine this page. The experiences and contributions described are my own.*

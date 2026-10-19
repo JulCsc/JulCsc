@@ -94,3 +94,5 @@ I enjoy this part of the work: trying something new, finding where it breaks dow
 > “When duplicate content remediation stalled due to false positives, she pivoted quickly, joining a Hackathon to co-develop an AI agent for automated similarity detection, laying the groundwork for scalable solutions.”
 >
 > — Kate F. · October 2025
+___
+*AI helped draft and refine this page. The experiences and contributions described are my own.*

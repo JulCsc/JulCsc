@@ -179,3 +179,5 @@ This work shows how I turn a broad quality goal into practical operations: clear
 > — Vamsee K. · Senior PM · October 2022
 
 *Microsoft maintains the live documentation, which may have changed since my involvement.*
+___
+*AI helped draft and refine this page. The experiences and contributions described are my own.*

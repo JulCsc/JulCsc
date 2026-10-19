@@ -81,6 +81,7 @@ That lesson complements the delivery outcome: successful collaboration includes 
 >
 > — Felipe O. · Director Go-to-Market Manager · April 2024
 
-
-
 *Microsoft maintains the live documentation, which may have changed since my involvement.*
+
+___
+*AI helped draft and refine this page. The experiences and contributions described are my own.*
