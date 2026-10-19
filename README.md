@@ -1,6 +1,6 @@
 # Hi, I’m Julia 👋
 
-I'm a technical program manager and content developer with a background in business and communications. Although I didn't go the traditional route to get into tech, I’ve sharpened my technical skills by seeing something cool, wondering how it works, then figuring it out. That’s how writing led me into automation, AI, and workflows.
+I'm a technical program manager and content developer with a background in business and communications. Although I didn't go the traditional route to get into tech, I’ve sharpened my technical skills by seeing something cool, wondering how it works, knowing who to ask, and figuring it out. That’s how writing led me into automation, AI, and workflows.
 
 I always wanted to work in tech, so I learned my way in.
 
