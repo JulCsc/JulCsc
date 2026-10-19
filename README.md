@@ -7,7 +7,7 @@ I’ve learned much of the technical side by finding something cool, figuring ou
 
 I always wanted to work in tech. So I'm  learning my way into it. I'm not done.
 
-> **So, like, what do I do*?**
+> ### So, like, what even do I do?
 >
 > Here's where I’m collecting docs I've written, processes I’ve built, and stuff I’ve learned along the way: 
 >
