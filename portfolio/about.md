@@ -4,11 +4,16 @@ Hi! I'm Julia, and **my nerdism is cross-functional**.
 
 I can write the docs. I can improve the docs. I can build a new process for maintaining the docs. I can automate and agentify the systems that slowed me down along the way. I have fun when there's something complicated to untangle or something new to learn. 
 
-I guess you could say my career is where it is because I followed a series of side quests. For instance, as a communications specialist, I taught myself InDesign to make reports prettier. As a medical editor, I went to the dev meetings because I kept finding bugs in the websites I was editing. At Microsoft, I learned Power Automate because our documentation intake process was driving me nuts, and I played with Kusto because I wanted data our dashboards didn't show. 
+I take my work seriously ... I just might happen to pick up a few side quests along the way. For instance:
+
+- As a student, I studied English but found a work-study building class websites. 
+- As a communications specialist, I taught myself InDesign to make reports prettier. 
+- As a medical editor, I got invited to dev meetings because I could find bugs they didn't see. 
+- As a content developer, I learned Power Automate because I wanted to make our intake process better, and I tinkered with Kusto because I needed data the dashboards didn't show. 
 
 ![A cat sitting beside a road, offering a side quest.](case-studies/media/cat-quest.jpeg)
 
-Off-screen, I enjoy coastal life with my family and our dogs, watching football, listening to true crime podcasts, reading dark academia, and skiing with friends. The husband and I both work with AI, and our teens both detest it 🤫
+Off-screen, I enjoy coastal life with my family and our dogs, watching football, listening to true crime podcasts, reading dark academia, and skiing with friends. Fun fact: The husband and I both work with AI, and our teens both detest it 🤫
 
 - [Check out my work](resume-selected-work.md#selected-work)
 - [View my resume](resume-selected-work.md)
