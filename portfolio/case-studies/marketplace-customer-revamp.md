@@ -6,9 +6,6 @@
 
 [Explore the current Marketplace customer documentation](https://learn.microsoft.com/en-us/marketplace/)
 
-See the [selected public work index](../selected-work/selected-work.md) for
-the portfolio summary of this case study.
-
 ## The challenge
 
 Microsoft’s Marketplace customer guidance needed a coordinated refresh. The marketing and product teams wanted documentation that better helped customers understand and navigate Marketplace transactions—and gave field sellers clearer resources to use when supporting them.

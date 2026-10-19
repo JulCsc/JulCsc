@@ -43,7 +43,7 @@ This project brought together the parts of the work I enjoy: learning the techni
 
 ## Early results
 
-![Early project results: 2,119 August page views, 1,443 visitors, 11,416 combined MCP and Knowledge Search calls, and successful evidence retrieval for all 15 selected test questions.](media/p-to-f-sku-early-signals.svg)
+<img src="media/p-to-f-sku-early-signals.svg" alt="Early project results: 2,119 August page views, 1,443 visitors, 11,416 combined MCP and Knowledge Search calls, and successful evidence retrieval for all 15 selected test questions." width="500">
 
 In August, the first full month after publication, the four articles received **2,119 page views from 1,443 visitors**. The overview led direct traffic, with 622 views and 453 visitors.
 
@@ -57,6 +57,6 @@ These were results for the team's guidance set, which I authored and took throug
 
 ## Published work
 
-The four articles are linked above and in my [selected public work index](../selected-work/selected-work.md).
+The four articles are linked above.
 
 *Microsoft maintains the live documentation, which may have changed since my involvement.*

@@ -1,16 +1,35 @@
 # About me
 
-Hi! I'm [Julia Cawthra](https://linkedin.com/in/cawthrajulia). I'm a writer by education, an editor by trade, and a perpetual student of the technology behind the things I work on. A string of side quests got me to where I am today.
+Hi! I'm [Julia Cawthra](https://linkedin.com/in/cawthrajulia)—a writer by
+education, an editor by trade, and a perpetual student of the technology
+behind my work. A string of side quests got me here.
 
-![A cat sitting in a pool of light beside a road, captioned as having a side quest to offer.](case-studies/media/cat-quest.jpeg)
+![A cat sitting in a pool of light beside a road, offering a side quest.](case-studies/media/cat-quest.jpeg)
 
-I've spent most of my career being hired to do one thing, getting curious about something adjacent to it, and eventually finding myself doing both. I taught myself InDesign because I thought our newsletters could look better. As a medical editor, I started sitting in on developer meetings because I kept finding bugs in the websites I was supposed to be proofreading. At Microsoft, I learned Power Automate because our documentation intake process was driving me nuts, and how to work with Kusto because I wanted answers to questions our existing dashboards couldn't answer.
+I've spent most of my career being hired to do one thing, getting curious
+about something adjacent, and eventually doing both. I taught myself
+InDesign because our newsletters could look better. As a medical editor,
+I joined developer meetings because I kept finding bugs in the websites
+I was proofreading. At Microsoft, I learned Power Automate because our
+documentation intake process was driving me nuts, and Kusto because I
+wanted answers our dashboards couldn't give me.
 
-I spent 5 years at Microsoft as a Senior Content Developer, working across Partner Center, Commercial Marketplace, Microsoft Sales Experience, Power BI, and Microsoft Fabric. Along the way, I got increasingly involved in information architecture, technical program operations, automation, AI experimentation, and finding better ways for people and systems to work together. **I still love the writing part.** I just happen to be equally interested in everything that makes the writing useful, discoverable, accurate, and sustainable.
+I spent five years at Microsoft as a Senior Content Developer, working
+across Partner Center, Commercial Marketplace, Microsoft Sales Experience,
+Power BI, and Fabric. My work grew to include information architecture,
+technical program operations, automation, contributor enablement, and AI
+experimentation. **I still love the writing part.** I'm equally interested
+in what makes it useful, discoverable, accurate, and sustainable.
 
-Before Microsoft, my career meandered through medical editing, scientific publishing, technical consulting, and government communications. I have an MBA with a Marketing focus and bachelor's degrees in Journalism and English from Penn State. 
+Before Microsoft, my career meandered through medical editing, scientific
+publishing, technical consulting, and government communications. I have
+an MBA with a Marketing focus and bachelor's degrees in Journalism and
+English from Penn State.
 
-I'm happiest when there's something complicated to untangle, something inefficient to improve, or something new to learn. Preferably all three.
+I'm happiest when there's something complicated to untangle, something
+inefficient to improve, or something new to learn. Preferably all three.
+
+> [Explore my portfolio →](resume-selected-work.md#selected-work)
 
 ## Stakeholder feedback
 
@@ -89,6 +108,10 @@ I'm happiest when there's something complicated to untangle, something inefficie
 > “I really appreciate your quick response and guidance for updating content across various pages.”
 >
 > — Grace G. · October 2025
+
+> “You very quickly ramped up on all of the Learn authoring and publishing nuances and became an innovator in both aspects of the technical workflow (such as the Power Automate skills) and the content itself (such as the top tasks for MSX).”
+>
+> — Jason G. · Senior Content Manager · April 2023
 
 ## Manager feedback
 
