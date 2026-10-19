@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" role="img" aria-labelledby="title description">
+  <title id="title">Early project-level signals for Power BI Premium to Fabric migration guidance</title>
+  <desc id="description">A four-panel graphic showing 2,119 August page views, 1,443 August visitors, 11,416 combined MCP and Knowledge Search calls, and 15 of 15 selected post-publish questions retrieving authoritative evidence with required caveats.</desc>
+  <style>
+    .label { font: 700 22px Arial, sans-serif; fill: #242424; }
+    .value { font: 700 56px Arial, sans-serif; fill: #242424; }
+    .detail { font: 400 25px Arial, sans-serif; fill: #242424; }
+  </style>
+  <rect width="1200" height="600" fill="#ffffff"/>
+  <rect x="0" y="0" width="600" height="300" fill="#f5f2f7"/>
+  <rect x="600" y="0" width="600" height="300" fill="#f5f2f7"/>
+  <rect x="0" y="300" width="600" height="300" fill="#edf7ff"/>
+  <rect x="600" y="300" width="600" height="300" fill="#eef8ee"/>
+  <rect x="0" y="0" width="8" height="300" fill="#8a2da5"/>
+  <rect x="600" y="0" width="8" height="300" fill="#8a2da5"/>
+  <rect x="0" y="300" width="8" height="300" fill="#0078d4"/>
+  <rect x="600" y="300" width="8" height="300" fill="#107c10"/>
+  <text x="42" y="92" class="value">2,119</text>
+  <text x="42" y="152" class="detail">August page views</text>
+  <text x="642" y="92" class="value">1,443</text>
+  <text x="642" y="152" class="detail">August visitors</text>
+  <text x="42" y="392" class="value">11,416</text>
+  <text x="42" y="452" class="detail">MCP + Knowledge Search calls</text>
+  <text x="642" y="392" class="value">15/15</text>
+  <text x="642" y="452" class="detail">Selected post-publish questions</text>
+  <text x="642" y="488" class="detail">retrieved authoritative evidence</text>
+</svg>
