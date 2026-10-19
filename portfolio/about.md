@@ -2,21 +2,19 @@
 
 Hi! I'm Julia, and **my nerdism is cross-functional**.
 
-I can write the docs. I can improve the docs. I can build a new process for maintaining the docs. I can automate and agentify the systems that slowed me down. I have this habit of curious about something at work, learn how to do it. 
+I can write the docs. I can improve the docs. I can build a new process for maintaining the docs. I can automate and agentify the systems that slowed me down along the way. I have fun when there's something complicated to untangle or something new to learn. 
 
-I taught myself InDesign because our newsletters could look better. As a medical editor, I joined developer meetings because I kept finding bugs in the websites I was proofreading. At Microsoft, I learned Power Automate because our documentation intake process was driving me nuts, and Kusto because I wanted answers our dashboards couldn't give me. 
-
-I guess you could say my career is where it is because I followed a bunch of side quests.
+I guess you could say my career is where it is because I followed a series of side quests. For instance, as a communications specialist, I taught myself InDesign to make reports prettier. As a medical editor, I went to the dev meetings because I kept finding bugs in the websites I was editing. At Microsoft, I learned Power Automate because our documentation intake process was driving me nuts, and I played with Kusto because I wanted data our dashboards didn't show. 
 
 ![A cat sitting beside a road, offering a side quest.](case-studies/media/cat-quest.jpeg)
 
-I'm happiest when there's something complicated to untangle, something inefficient to improve, or something new to learn. Preferably all three.
+Off-screen, I enjoy coastal life with my family and our dogs, watching football, listening to true crime podcasts, reading dark academia, and skiing with friends. The husband and I both work with AI, and our teens both detest it 🤫
 
-Off-screen, I enjoy life on the coast with my family and dogs, watching football, listening to true crime podcasts, reading dark academia, and skiing with friends.
+- [Check out my work](resume-selected-work.md#selected-work)
+- [View my resume](resume-selected-work.md)
+- [They said what?!](#stakeholder-feedback)
 
-> [Check out my work →](resume-selected-work.md#selected-work)
-> [View my resume →](resume-selected-work.md)
-> [Don't just take my word for it →](#stakeholder-feedback)
+___
 
 ## Stakeholder feedback
 
