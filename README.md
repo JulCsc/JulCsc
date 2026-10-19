@@ -11,4 +11,6 @@ I always wanted to work in tech. So I'm  learning my way into it. I'm not done.
 >
 >[My portfolio](/portfolio/README.md)
 
+Most of my Microsoft work happened in private repositories, so the contributions you can see here tell only a tiny part of the story. I was an active author, reviewer, and repo administrator across large documentation portfolios. My portfolio connects that work to published docs and describes the systems and processes I built along the way.
+
 <img src="portfolio/case-studies/media/family-collage-selfie.png" alt="AI-generated image of JulCsc's family" width="400">
