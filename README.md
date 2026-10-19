@@ -7,10 +7,12 @@ I’ve learned much of the technical side by finding something cool, figuring ou
 
 I always wanted to work in tech. So I'm  learning my way into it. I'm not done.
 
-> This is where I’m collecting docs I've written, things I’ve built, and stuff I’ve learned along the way: 
+> **So, like, what do I do*?**
 >
->[My portfolio](/portfolio/README.md)
+> Here's where I’m collecting docs I've written, processes I’ve built, and stuff I’ve learned along the way: 
+>
+> [My portfolio](/portfolio/README.md)
 
-Most of my Microsoft work happened in private repositories, so the contributions you can see here tell only a tiny part of the story. I was an active author, reviewer, and repo administrator across large documentation portfolios. My portfolio connects that work to published docs and describes the systems and processes I built along the way.
+Most of my Microsoft work happened in private repositories, so the contributions you can see here tell only a tiny part of the story. I was an active author, reviewer, and repo administrator across high-profile Microsoft Learn docsets. My portfolio connects that work to published docs and describes the systems and processes I built along the way.
 
 <img src="portfolio/case-studies/media/family-collage-selfie.png" alt="AI-generated image of JulCsc's family" width="400">
